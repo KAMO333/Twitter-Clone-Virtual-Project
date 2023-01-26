@@ -16,8 +16,12 @@
     width: 350px;
     margin-right: 10px;
 }
+.layout__left-sidebar-container{
+    margin-top: -9px;
+}
 .layout__left-sidebar{
     position: fixed;
+   
 }
 /* Logo style */
 .brand{
