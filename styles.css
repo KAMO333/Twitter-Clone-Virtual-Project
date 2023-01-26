@@ -33,14 +33,14 @@
 }
 /* SIDEBAR */
 .sidebar-menu__items{
-    font-size: 20px;
+    font-size: 22px;
     color: rgb(15, 20, 25);
     display: flex;
     align-items: center; 
     font-weight: 400;
     padding: 10px;
-    margin-right: 100px;
-    margin-left: 20px;
+    margin-right: 150px;
+    margin-left: 10px;
 }
 .sidebar-menu__items:hover{
     background: #E7E7E7;
@@ -52,6 +52,15 @@
 .sidebar-menu__items--active{
     color: black;
     margin-top: 20px;
+}
+
+.sidebar-menu__items span.text{
+    font-size: 22px;
+    font-weight:400;
+}
+
+.sidebar-menu__items span.strong{
+    font-size: 22px;
 }
 .sidebar-menu__items-icon{
     height: 30px;
@@ -283,10 +292,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 75%;
+    width: 85%;
     opacity: 0.7; 
     margin-bottom: 0; 
-    margin-top: 2px;
+    margin-top: 10px;
 }
 .tweet-icons{
     display: flex;
@@ -366,16 +375,14 @@
     color: #14171a;
 }
 .trends-for-you__meta-information{
-    font-size: 13px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 350;
     color: #657786;
 }
-.trends-for you__trend-name{
-    font-size: 15px;
-    font-weight: 700;
-    color: #14171a;
-    margin-bottom: 5px;
-    margin-top: 2px;
+.trend-name{
+    font-weight: bolder;
+    font-size: 19px;
+  
 }
 .follow{
     background: #f5f8fa;
