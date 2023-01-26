@@ -28,7 +28,6 @@
     margin-top: 15px;    
 }
 .brand:hover{
-    background: #f5f8fa;
     cursor: pointer;
     border-radius: 900px;
 }
@@ -90,7 +89,7 @@
     border-radius: 50px;
     font-size: 15px;
     margin-left: 14px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 .profile-button:hover{
     background: #E7E7E7;
