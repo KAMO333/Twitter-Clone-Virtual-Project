@@ -1,25 +1,4 @@
-/* MOBILE OPTIMIZATION */
-/* @media(max-width:1450px){
-    .option span{
-        display: none;
-    }
-    .option button{
-        padding: 10px 10px;
-    }
-    .container{
-        grid-template-columns: 10% 50% 40%;
-    }
-    .option-center{
-        width: 99.6%;
-    }
-    .option div a i{
-        padding: 0;
-        border-radius: 50%;
-    }
-    .profile-message{
-        grid-template-columns: 25% 40% 35%;
-    }
-} */
+
 @media(max-width:480px){
     .layout__left-sidebar-container{
         display: none;
