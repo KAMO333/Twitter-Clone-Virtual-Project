@@ -313,17 +313,38 @@
     cursor: pointer;
     padding: 0 0 0 5px;
 }
+
+.comments-1{
+    color: #00a7ff;
+    cursor: pointer;
+}
 .comments:hover{
     color: #00a7ff;
+    cursor: pointer;
+}
+.retweet-1{
+    color: green;
     cursor: pointer;
 }
 .retweet:hover{
     color: green;
     cursor: pointer;
 }
-.likes:hover{
-    color: red;
+.likes-1{
     cursor: pointer;
+    color: rgb(238, 34, 34);
+    fill: rgb(238, 34, 34);
+}
+
+.likes:hover{
+    cursor: pointer;
+    background-color: rgb(240, 226, 226);
+    color: rgb(238, 34, 34);
+    fill: rgb(238, 34, 34);
+}
+.upload-1{
+    color: #00a7ff;
+    cursor: pointer; 
 }
 .upload:hover{
     color: #00a7ff;
@@ -479,6 +500,7 @@
     margin-right: 5px;
     color:rgb(83, 100, 113);
 }
+
 
 .dots{
     font-size: 20px;

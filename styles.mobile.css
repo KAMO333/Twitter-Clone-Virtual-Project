@@ -40,7 +40,16 @@
         background-color: white;
         height: 53px;
         width: 25.29rem;
-        z-index: 1;
-        
+        z-index: 1;    
+    }
+    .three{
+
+        bottom: 0;
+        display: inline-block;
+        display: flex;
+        justify-content: space-around;
+        height: 53px;
+        width: 25.29rem;
+        z-index: 1; 
     }
 }
