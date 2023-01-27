@@ -486,3 +486,12 @@
     margin-bottom: -20px;
     /* margin-top: -7px; */
 }
+.mobile-btn{
+    display: none;
+  }
+  .directory{
+    display: none;
+  }
+  .directory .icon{
+    width: 24px;
+  }
