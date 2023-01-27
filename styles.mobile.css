@@ -20,7 +20,7 @@
         grid-template-columns: 25% 40% 35%;
     }
 } */
-@media(max-width:969px){
+@media(max-width:480px){
     .layout__left-sidebar-container{
         display: none;
     }
